@@ -54,8 +54,8 @@ Hệ thống quản lý nhân sự cho phép người dùng xem danh sách, tìm
 | STT | Hạng mục | Đường link |
 |---|---|---|
 | 1 | **GitHub Repository** | https://github.com/huy238244/238244-NguyenQuocHuy |
-| 2 | **Docker Hub Backend** | https://hub.docker.com/r/huy238244/backend *(thay username tương ứng)* |
-| 3 | **Docker Hub Frontend** | https://hub.docker.com/r/huy238244/frontend *(thay username tương ứng)* |
+| 2 | **Docker Hub Backend** | https://hub.docker.com/r/quochuy238244h/backend |
+| 3 | **Docker Hub Frontend** | https://hub.docker.com/r/quochuy238244h/frontend |
 | 4 | **Render App (Frontend)** | https://web-238244.onrender.com |
 | 5 | **Render API (Backend)** | https://api-238244.onrender.com |
 | 6 | **MongoDB Atlas** | `mongodb+srv://...` *(đã cấu hình trong biến môi trường Render)* |
