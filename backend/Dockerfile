@@ -1,0 +1,18 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Sao chép package.json và cài đặt dependencies
+COPY package*.json ./
+RUN npm install --production
+
+# Sao chép toàn bộ mã nguồn backend
+COPY . .
+
+# Mở cổng mặc định
+EXPOSE 5000
+
+ENV PORT=5000
+
+CMD ["npm", "start"]
+
