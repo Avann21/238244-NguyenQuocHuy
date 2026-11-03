@@ -53,7 +53,7 @@ Hệ thống quản lý nhân sự cho phép người dùng xem danh sách, tìm
 
 | STT | Hạng mục | Đường link |
 |---|---|---|
-| 1 | **GitHub Repository** | https://github.com/huy238244/238244-NguyenQuocHuy |
+| 1 | **GitHub Repository** | https://github.com/Avann21/238244-NguyenQuocHuy |
 | 2 | **Docker Hub Backend** | https://hub.docker.com/r/quochuy238244h/backend |
 | 3 | **Docker Hub Frontend** | https://hub.docker.com/r/quochuy238244h/frontend |
 | 4 | **Render App (Frontend)** | https://web-238244.onrender.com |
